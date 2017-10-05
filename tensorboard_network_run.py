@@ -1,10 +1,3 @@
-# coding: utf-8
-
-# 微信公众号：深度学习与神经网络
-# Github：https://github.com/Qinbf
-# 优酷频道：http://i.youku.com/sdxxqbf
-
-# In[1]:
 
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
